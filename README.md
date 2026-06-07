@@ -1,4 +1,4 @@
-# 📌 Project Portfolio Dashboard – Power BI
+# 📌 Power BI
 
 ## 🎯 Objectif du projet :
 
@@ -31,7 +31,6 @@ This project demonstrates my ability to transform raw data into actionable busin
 ## 🧠 Modélisation des données :
 
 Le modèle repose sur une structure relationnelle avec une table centrale de projets reliée aux tables de coûts, durées, livrables et localisation.
-Une clé composée Projet + Phase a été créée afin d’assurer la cohérence des données au niveau le plus détaillé.
 
 ---
 
@@ -45,3 +44,12 @@ Une simple actualisation dans Power BI permet de mettre à jour automatiquement 
 ## 🚀 Compétences acquises :
 
 Power BI · Power Query · DAX · Data Modeling · Data Visualization · Business Intelligence · Data Cleaning
+
+---
+
+## 📷 Aperçu du dashboard :
+
+![Suivit des projets](images/Suivit_projets.png)
+![delais](images/Delais.png)
+![Planning](images/Planning.png)
+
